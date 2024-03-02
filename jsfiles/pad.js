@@ -1,4 +1,4 @@
-const speed=.03
+const speed=.04
 
 export default class pad {
     constructor(padElem){
