@@ -1,5 +1,5 @@
-import Ball from './jsfiles/Ball';
-import Pad from './jsfiles/pad';
+import Ball from './Ball.js';
+import Pad from './pad.js';
 const ball = new Ball(document.getElementById('ball'))
 const playerPad=new Pad(document.getElementById('player-pad'))
 const computerPad=new Pad(document.getElementById('computer-pad'))
